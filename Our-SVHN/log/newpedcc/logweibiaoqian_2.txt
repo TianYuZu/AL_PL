@@ -1,0 +1,4 @@
+>> Train a Model.>> Finished.Trial 1/3 || Cycle 1/1 || Label set size 73257: Test acc 95.77059004302397
+>> Train a Model.>> Finished.Trial 2/3 || Cycle 1/1 || Label set size 73257: Test acc 95.4901659496005
+>> Train a Model.>> Finished.Trial 3/3 || Cycle 1/1 || Label set size 73257: Test acc 95.24815611555009
+time: 40679s
