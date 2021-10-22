@@ -2,7 +2,7 @@
 Active learning of pattern classificationbased on PEDCC-Loss
 
 
-##对应数据集文件夹下mainweibiaoqian.py为主代码
+##mainweibiaoqian.py为主代码
 
 
 ##数据集图片运行代码的时候会自行下载
